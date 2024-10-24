@@ -13,3 +13,8 @@ These blogs often focus on various aspects of programming, including coding tuto
 Another crucial theme is the promotion of best practices in software development, including clean code principles, debugging techniques, and code optimization strategies. Many blogs also cover soft skills, like improving productivity, collaboration in open-source projects, and career advice for developers.
 
 Additionally, these blogs often serve as a hub for community engagement, encouraging readers to discuss and share their experiences in the comments or forums. This collaborative environment fosters growth and continuous learning in an ever-evolving field, making programming blogs invaluable resources for developers worldwide.
+
+# Live website link
+
+[Open Website](https://knowledge-cafe-akweb.netlify.app/)
+[Open Knowledge Cafe](https://knowledge-cafe-akweb.netlify.app/)
