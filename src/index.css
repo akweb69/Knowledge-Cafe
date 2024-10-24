@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100..900;1,100..900&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: "Exo 2", sans-serif;
+}
+.profile1 {
+  animation: prof1 1s infinite;
+}
+@keyframes prof1 {
+  0% {
+    box-shadow: 0px 0px 0px greenyellow;
+  }
+  50% {
+    box-shadow: 0px 0px 20px rgb(3, 108, 179);
+  }
+  100% {
+    box-shadow: 0px 0px 0px greenyellow;
+  }
+}

@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "cover_page": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010129.jpg?t=st=1729581822~exp=1729585422~hmac=ab5e9139b8f95cbb1c4b9b1342d2d46e87b4d61acadeaa435f62825dcf2aca85&w=996",
+    "title": "Getting Started with HTML5",
+    "post_date": "2024-08-15 (68 days ago)",
+    "reading_time": 5,
+    "author_name": "Alice Johnson",
+    "author_img": "https://img.freepik.com/free-photo/close-up-beautiful-girl-portrait-with-purple-hair_23-2150799937.jpg?uid=R155273247&ga=GA1.1.744742902.1727266213&semt=ais_hybrid",
+    "full_blog": "HTML5 is the backbone of web development. In this post, we'll explore the basics of HTML, including how to structure a web page using semantic elements. Whether you're a beginner or just brushing up on the latest features, HTML5 provides essential tools for every web developer.",
+    "hashtags": ["#HTML5 ", "  #WebDevelopment  ","  ","#Coding "]
+  },
+  {
+    "id": 2,
+    "cover_page": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010136.jpg?uid=R155273247&ga=GA1.1.744742902.1727266213&semt=ais_hybrid",
+    "title": "CSS Grid vs Flexbox: A Practical Comparison",
+    "post_date": "2024-09-02 (50 days ago)",
+    "reading_time": 4,
+    "author_name": "Bob Carter",
+    "author_img": "https://img.freepik.com/free-photo/close-up-young-person-barbeque_23-2149271990.jpg?uid=R155273247&ga=GA1.1.744742902.1727266213&semt=ais_hybrid",
+    "full_blog": "CSS Grid and Flexbox are powerful layout tools in modern web design. This article compares their uses and advantages. While Flexbox excels in single-axis layouts, Grid shines in multi-axis designs. Understanding when to use each can significantly streamline your layout process.",
+    "hashtags": ["#CSS", "  #WebDesign    ", "#Flexbox"]
+  },
+  {
+    "id": 3,
+    "cover_page": "https://img.freepik.com/free-photo/programming-background-concept_23-2150170137.jpg?uid=R155273247&ga=GA1.1.744742902.1727266213&semt=ais_hybrid",
+    "title": "JavaScript ES6: Key Features You Should Know",
+    "post_date": "2024-07-28 (85 days ago)",
+    "reading_time": 6,
+    "author_name": "Carol Greene",
+    "author_img": "https://img.freepik.com/free-photo/front-view-smiley-business-man_23-2148479583.jpg?uid=R155273247&ga=GA1.1.744742902.1727266213&semt=ais_hybrid",
+    "full_blog": "ES6 brought exciting changes to JavaScript, making it more powerful and user-friendly. Key features include arrow functions, template literals, and destructuring. Understanding these features will help you write cleaner, more efficient code and stay ahead in the web development world.",
+    "hashtags": ["#JavaScript", "  #ES6  ", "#WebDevelopment"]
+  },
+  {
+    "id": 4,
+    "cover_page": "https://img.freepik.com/free-photo/programming-background-collage_23-2149901772.jpg?uid=R155273247&ga=GA1.1.744742902.1727266213&semt=ais_hybrid",
+    "title": "Top 5 Front-End Frameworks in 2024",
+    "post_date": "2024-10-01 (21 days ago)",
+    "reading_time": 7,
+    "author_name": "David Lee",
+    "author_img": "https://img.freepik.com/free-photo/young-pretty-model-is-smiling_114579-13323.jpg?uid=R155273247&ga=GA1.1.744742902.1727266213&semt=ais_hybrid",
+    "full_blog": "Front-end frameworks streamline the development process. In 2024, the top frameworks are React, Angular, Vue.js, Svelte, and Next.js. Each has unique strengths. This post examines which framework might be best for your project based on performance, scalability, and ease of use.",
+    "hashtags": ["#FrontEnd", "  #Frameworks  ", "#React"]
+  },
+  {
+    "id": 5,
+    "cover_page": "https://img.freepik.com/free-photo/programming-background-collage_23-2149901789.jpg?t=st=1729582090~exp=1729585690~hmac=fe59890fdebaa0b648d407bc6a49ac831a8e23fe5d5b8be4729f521fe7ecc345&w=996",
+    "title": "Debugging JavaScript: Best Practices",
+    "post_date": "2024-08-22 (61 days ago)",
+    "reading_time": 5,
+    "author_name": "Eva Martinez",
+    "author_img": "https://img.freepik.com/free-photo/young-bearded-man-black-shirt-looking-camera-displeased_141793-28316.jpg?uid=R155273247&ga=GA1.1.744742902.1727266213&semt=ais_hybrid",
+    "full_blog": "Debugging is a crucial skill for any web developer. This post discusses best practices for debugging JavaScript, including using browser dev tools, setting breakpoints, and employing console logs effectively. Mastering these techniques will save you time and headaches.",
+    "hashtags": ["#Debugging", "  #JavaScript  ", "#WebDevelopment"]
+  },
+  {
+    "id": 6,
+    "cover_page": "https://img.freepik.com/free-photo/programming-background-collage_23-2149901770.jpg?uid=R155273247&ga=GA1.1.744742902.1727266213&semt=ais_hybrid",
+    "title": "Understanding REST APIs",
+    "post_date": "2024-09-15 (36 days ago)",
+    "reading_time": 6,
+    "author_name": "Franklin Kim",
+    "author_img": "https://img.freepik.com/free-photo/close-up-smiley-woman-outdoors_23-2149002410.jpg?uid=R155273247&ga=GA1.1.744742902.1727266213&semt=ais_hybrid",
+    "full_blog": "REST APIs are essential for connecting front-end interfaces with back-end services. This blog explains the basics of REST architecture, including how to make GET, POST, PUT, and DELETE requests. We’ll also look at best practices for designing APIs that are secure and scalable.",
+    "hashtags": ["#REST", "  #APIs  ", "#WebDevelopment"]
+  },
+  {
+    "id": 7,
+    "cover_page": "https://img.freepik.com/free-photo/person-working-html-computer_23-2150040432.jpg?uid=R155273247&ga=GA1.1.744742902.1727266213&semt=ais_hybrid",
+    "title": "Building Responsive Websites with Bootstrap",
+    "post_date": "2024-08-30 (53 days ago)",
+    "reading_time": 4,
+    "author_name": "Grace Young",
+    "author_img": "https://img.freepik.com/free-photo/expressive-woman-posing-outdoor_344912-3080.jpg?uid=R155273247&ga=GA1.1.744742902.1727266213&semt=ais_hybrid",
+    "full_blog": "Bootstrap is a popular front-end framework for creating responsive websites. This article provides an overview of how to use Bootstrap's grid system, components, and utilities to build mobile-first designs quickly and efficiently. Get started today with Bootstrap!",
+    "hashtags": ["#Bootstrap", "  #ResponsiveDesign  ", "#WebDevelopment"]
+  },
+  {
+    "id": 8,
+    "cover_page": "https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?uid=R155273247&ga=GA1.1.744742902.1727266213&semt=ais_hybrid",
+    "title": "SEO for Web Developers: Essential Tips",
+    "post_date": "2024-09-20 (31 days ago)",
+    "reading_time": 5,
+    "author_name": "Harry Wilson",
+    "author_img": "https://img.freepik.com/free-photo/portrait-serious-young-businessman-glasses_1262-3810.jpg?uid=R155273247&ga=GA1.1.744742902.1727266213&semt=ais_hybrid",
+    "full_blog": "SEO (Search Engine Optimization) is vital for driving traffic to your website. This post focuses on on-page SEO strategies for web developers, such as optimizing meta tags, improving page speed, and using proper heading structures. Learn how to build SEO-friendly sites that rank higher on search engines.",
+    "hashtags": ["#SEO", "  #WebDevelopment  ", "#SearchOptimization"]
+  },
+  {
+    "id": 9,
+    "cover_page": "https://img.freepik.com/free-photo/representation-user-experience-interface-design_23-2150169847.jpg?uid=R155273247&ga=GA1.1.744742902.1727266213&semt=ais_hybrid",
+    "title": "A Guide to Web Development Tools in 2024",
+    "post_date": "2024-10-12 (10 days ago)",
+    "reading_time": 7,
+    "author_name": "Isabella Moore",
+    "author_img": "https://img.freepik.com/free-photo/young-businesswoman-with-red-lips-blowing-kiss-camera_1368-91167.jpg?uid=R155273247&ga=GA1.1.744742902.1727266213&semt=ais_hybrid",
+    "full_blog": "The web development tool landscape evolves quickly. In 2024, tools like VS Code, GitHub Copilot, and Figma are essential for productivity and collaboration. This blog explores the top tools developers should consider using, from code editors to design platforms.",
+    "hashtags": ["#WebDevelopment", "  #Tools  ", "#Productivity"]
+  },
+  {
+    "id": 10,
+    "cover_page": "https://img.freepik.com/free-photo/person-front-computer-working-html_23-2150040425.jpg?uid=R155273247&ga=GA1.1.744742902.1727266213&semt=ais_hybrid",
+    "title": "Introduction to TypeScript for JavaScript Developers",
+    "post_date": "2024-07-15 (98 days ago)",
+    "reading_time": 6,
+    "author_name": "James Patel",
+    "author_img": "https://img.freepik.com/free-photo/cheerful-young-people-group-people-sitting-table_23-2148777095.jpg?uid=R155273247&ga=GA1.1.744742902.1727266213&semt=ais_hybrid",
+    "full_blog": "TypeScript is a typed superset of JavaScript that improves code quality and developer experience. This post introduces the key features of TypeScript, including static typing, interfaces, and type inference. Learn how adopting TypeScript can help you write safer, more scalable code.",
+    "hashtags": ["#TypeScript", "  #JavaScript  ", "#WebDevelopment"]
+  }
+]
